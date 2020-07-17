@@ -1,23 +1,23 @@
 {
   "development": {
     "username": "root",
-    "password": "Passw@rd",
+    "password": "",
     "database": "dev_passport",
-    "host": "127.0.0.1",
+    "host": "",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "Passw@rd",
+    "password": "",
     "database": "test_passport",
-    "host": "127.0.0.1",
+    "host": "",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "Passw@rd",
-    "database": "prod_passport",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": "l"
   }
 }
